@@ -2,6 +2,7 @@
 
 <br>
 🔒 Foco em Back-End e Segurança de Dados | 🤖 Automação com n8n | 🎓 Ciência da Computação - UNIFOR 2025 → 2029
+
 <br>
 
 ## 🛠️ Tech Stack
