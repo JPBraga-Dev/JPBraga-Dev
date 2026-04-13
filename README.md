@@ -4,11 +4,11 @@
 [![Email](https://img.shields.io/badge/Gmail-Meu%20Email-D14836?style=flat-square&logo=gmail)](mailto:seuemail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JPBraga--Dev-24292e?style=flat-square&logo=github)](https://github.com/JPBraga-Dev)
 
----
+<br>
 
 🔒 Foco em **Back-End e Segurança de Dados** | 🤖 **Automação com n8n** | 🎓 ADS 2025 → 2029
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -33,24 +33,17 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<br>
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JPBraga-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBraga-Dev&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+![Stats](https://github-readme-stats.vercel.app/api?username=JPBraga-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JPBraga-Dev&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPBraga-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
----
+[![Streak](https://streak-stats.demolab.com?user=JPBraga-Dev&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+<br>
 
 ## 🎯 Atualmente focando em
 
@@ -62,7 +55,7 @@ objetivos = {
 }
 ```
 
----
+<br>
 
 ## 📌 Projetos
 
@@ -73,7 +66,7 @@ objetivos = {
 | [📐 TransformacoesLineares](https://github.com/JPBraga-Dev/TransformacoesLineares) | Transformações lineares visuais | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [🗂️ Portfolio](https://github.com/JPBraga-Dev/Portfolio) | Portfólio pessoal | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
----
+<br>
 
 <div align="center">
 
