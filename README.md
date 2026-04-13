@@ -8,6 +8,7 @@
 
 **🐍 Back-End & Banco de Dados**
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,10 +31,6 @@
 <br>
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JPBraga-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPBraga-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 [![Streak](https://streak-stats.demolab.com?user=JPBraga-Dev&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
