@@ -1,7 +1,7 @@
 # Olá! Aqui é o João Pedro Braga 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Gmail-Meu%20Email-D14836?style=flat-square&logo=gmail)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Meu%20Email-D14836?style=flat-square&logo=gmail)](mailto:Jpbraagamendes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JPBraga--Dev-24292e?style=flat-square&logo=github)](https://github.com/JPBraga-Dev)
 
 <br>
