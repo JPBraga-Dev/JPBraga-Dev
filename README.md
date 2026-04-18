@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm João Pedro Braga 
+# Hey, I'm João Pedro Braga 👋
 
-**Back-End Developer & Data Security Enthusiast**
+**Back-End Developer & Data Security Enthusiast** 
 
 🔒 Back-End & Data Security | 🤖 Automation with n8n | 🎓 Computer Science @ UNIFOR
 
