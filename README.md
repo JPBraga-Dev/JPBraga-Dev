@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm João Pedro Braga 👋
+# Hey, I'm João Pedro Braga 
 
 **Back-End Developer & Data Security Enthusiast**
 
